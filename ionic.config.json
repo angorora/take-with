@@ -1,5 +1,7 @@
 {
   "name": "take-with",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
